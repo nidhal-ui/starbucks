@@ -1,6 +1,7 @@
 body{
   margin: 0;
   background-color: rgb(247, 247, 247);
+  overflow-x: hidden;
 }
 .footer{
   margin-left: -81px;
