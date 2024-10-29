@@ -1,0 +1,120 @@
+
+.primary-navigation{
+  width: 407.453px;
+  align-items: center;
+  display: flex;
+  list-style: none;
+  justify-content: center;
+  padding: 0;
+  margin: 0;
+  height: 100px;
+  font-family: SoDo Sans, sans-serif;
+  font-size: 10px;
+  line-height: 11.5px;
+}
+.primary-navigation-list{
+  color: rgb(31, 31, 31);
+  margin-right: 24px;
+  display: list-item;
+  font-size: 10px;
+  height: 100px;
+  width: fit-content;
+  text-size-adjust: 100%;
+  text-align: left;
+}
+.primary-navigation-text1{
+  width: 74.7344px;
+  align-items: center;
+  color: rgb(31, 31, 31);
+  cursor: pointer;
+  display: flex;
+  font-family: SoDo Sans, sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  height: 100px;
+  justify-content: center;
+  line-height: 21px;
+  letter-spacing: 1.3px;
+  text-align: left;
+  position: relative;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition-delay: 0s;
+  transition-duration: 0.2s;
+  transition-property: color;
+}
+.primary-navigation-text1:hover{
+  color: #00653e;
+}
+.primary-navigation-text2{
+  width: 44.6562px;
+  align-items: center;
+  color: rgb(31, 31, 31);
+  cursor: pointer;
+  display: flex;
+  font-family: SoDo Sans, sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  height: 100px;
+  justify-content: center;
+  line-height: 21px;
+  letter-spacing: 1.3px;
+  text-align: left;
+  position: relative;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition-delay: 0s;
+  transition-duration: 0.2s;
+  transition-property: color;
+}
+.primary-navigation-text2:hover{
+  color: #00653e;
+}
+.primary-navigation-text3{
+  width: 71.2031px;
+  align-items: center;
+  color: rgb(31, 31, 31);
+  cursor: pointer;
+  display: flex;
+  font-family: SoDo Sans, sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  height: 100px;
+  justify-content: center;
+  line-height: 21px;
+  letter-spacing: 1.3px;
+  text-align: left;
+  position: relative;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition-delay: 0s;
+  transition-duration: 0.2s;
+  transition-property: color;
+}
+.primary-navigation-text3:hover{
+  color: #00653e;
+}
+.primary-navigation-text4{
+  width: 120.859px;
+  align-items: center;
+  color: rgb(31, 31, 31);
+  cursor: pointer;
+  display: flex;
+  font-family: SoDo Sans, sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  height: 100px;
+  justify-content: center;
+  line-height: 21px;
+  letter-spacing: 1.3px;
+  text-align: left;
+  position: relative;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition-delay: 0s;
+  transition-duration: 0.2s;
+  transition-property: color;
+}
+.primary-navigation-text4:hover{
+  color: #00653e;
+}

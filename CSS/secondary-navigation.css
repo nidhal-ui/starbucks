@@ -1,0 +1,277 @@
+.secondary-navigation{
+  align-items: center;
+  color: rgb(31, 31, 31);
+  display: flex;
+  font-family: SoDo Sans, sans-serif;
+  font-size: 10px;
+  justify-content: center;
+  line-height: 11.5px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-size-adjust: 100%;
+  width: 408.375px;
+}
+.language-switcher{
+  color: rgb(31, 31, 31);
+  display: list-item;
+  font-family: SoDo Sans, sans-serif;
+  font-size: 10px;
+  height: 40px;
+  width: 58.9375px;
+  line-height: 11.5px;
+  margin-right: 16px;
+  text-align: left;
+}
+.language-switcher-menu{
+  display: block;
+  font-family: SoDo Sans, sans-serif;
+  font-size: 10px;
+  line-height: 11.5px;
+  position: relative;
+  text-align: left;
+  padding: 0;
+  width: 58.9375px;
+  height: 40px;
+}
+.language-switcher-menu-item{
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0);
+  color: rgb(0, 130, 72);
+  cursor: pointer;
+  display: inline-flex;
+  font-family: SoDo Sans, sans-serif;
+  font-size: 10px;
+  justify-content: flex-start;
+  line-height: 11.5px;
+  position: relative;
+  text-align: left;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  height: 40px;
+  width: 58.9375px;
+}
+.language-text{
+  display: block;
+  color: rgb(0, 130, 72);
+  cursor: pointer;
+  font-family: SoDo Sans, sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  height: 27px;
+  letter-spacing: -0.2px;
+  line-height: 27px;
+  width: 18.9375px;
+  text-align: left;
+}
+.language-text:hover{
+  opacity: .8;
+}
+.language-button{
+  display: flex;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0);
+  border-bottom-left-radius: 100%;
+  border-bottom-right-radius: 100%;
+  border-bottom-style: none;
+  border-bottom-width: 0px;
+  border-left-style: none;
+  border-left-width: 0px;
+  border-top-left-radius: 100%;
+  border-top-right-radius: 100%;
+  border-top-style: none;
+  border-top-width: 0px;
+  border-right-style: none;
+  border-right-width: 0px;
+  cursor: pointer;
+  height: 40px;
+  justify-content: center;
+  margin: 0;
+  padding-block-end: 8px;
+  padding-block-start: 8px;
+  padding-bottom: 8px;
+  padding-inline-end: 8px;
+  padding-inline-start: 8px;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 8px;
+  position: relative;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+  transition-duration: 0.2s;
+  transition-delay: 0s;
+  width: 40px;
+  transition-timing-function: cubic-bezier(0.19, 1, 0.22, 1);
+}
+.language-button:hover{
+  background-color: #ccc;
+}
+.find-a-store-button{
+  display: list-item;
+  height: 25.5px;
+  margin-right: 16px;
+  font-family: SoDo Sans, sans-serif;
+  font-size: 10px;
+  line-height: 11.5px;
+  text-align: left;
+  color: rgb(31, 31, 31);
+}
+.find-a-store-button:hover{
+  opacity: 0.8;
+}
+.find-store{
+  position: relative;
+  align-items: center;
+  display: inline-flex;
+  justify-content: center;
+  margin-bottom: -8px;
+  margin-left: -4px;
+  margin-right: -4px;
+  margin-top: -8px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  padding-bottom: 8px;
+  padding-left: 4px;
+  padding-right: 4px;
+  padding-top: 8px;
+  font-family: SoDo Sans, sans-serif;
+  font-size: 10px;
+  line-height: 11.5px;
+  text-align: left;
+  background-color: rgba(0, 0, 0, 0);
+  cursor: pointer;
+  transition-duration: 0.2s;
+}
+.icon-location{
+  color: rgb(0, 0, 0);
+  display: block;
+  flex-grow: 1;
+  flex-shrink: 0;
+  height: 22px;
+  margin-right: 8px;
+  width: 22px;
+  cursor: pointer;
+  font-family: SoDo Sans, sans-serif;
+  font-size: 10px;
+  line-height: 11.5px;
+  text-align: left;
+}
+.location{
+  display: block;
+  height: 22px;
+  width: 22px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  cursor: pointer;
+}
+.find-a-store-text{
+  width: 77.3594px;
+  font-family: SoDo Sans, sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: -0.14px;
+  line-height: 16.8px;
+  text-align: left;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+}
+.login-button{
+  display: list-item;
+  height: 32px;
+  margin-left: 24px;
+  margin-right: 16px;
+  font-family: SoDo Sans, sans-serif;
+  font-size: 10px;
+  line-height: 11.5px;
+  text-align: left;
+  color: rgb(31, 31, 31);
+}
+.sign-in{
+  position: relative;
+  align-items: center;
+  display: inline-flex;
+  justify-content: center;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  padding-bottom: 8px;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 8px;
+  font-family: SoDo Sans, sans-serif;
+  font-size: 10px;
+  line-height: 11.5px;
+  text-align: center;
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  background-color: rgba(0, 0, 0, 0);
+  border-bottom-color: rgb(0, 0, 0);
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-left-color: rgb(0, 0, 0);
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-right-color: rgb(0, 0, 0);
+  border-right-style: solid;
+  border-right-width: 1px;
+  border-top-color: rgb(0, 0, 0);
+  border-top-style: solid;
+  border-top-width: 1px;
+  cursor: pointer;
+  transition-duration: 0.2s;
+  border-bottom-left-radius: 1000px;
+  border-bottom-right-radius: 1000px;
+  border-top-left-radius: 1000px;
+  border-top-right-radius: 1000px;
+}
+.sign-in:hover{
+  background-color: rgba(0, 0, 0, 0.025);
+}
+.login-text{
+  font-family: SoDo Sans, sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: -0.14px;
+  line-height: 14px;
+  text-align: center;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+}
+.join{
+  position: relative;
+  align-items: center;
+  display: inline-flex;
+  justify-content: center;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  padding-bottom: 8px;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 8px;
+  text-size-adjust: 100%;
+  font-family: SoDo Sans, sans-serif;
+  font-size: 10px;
+  line-height: 11.5px;
+  text-align: center;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  background-color: rgb(0, 0, 0);
+  cursor: pointer;
+  transition-duration: 0.2s;
+  border-bottom-left-radius: 1000px;
+  border-bottom-right-radius: 1000px;
+  border-top-left-radius: 1000px;
+  border-top-right-radius: 1000px;
+  border: 0;
+}
+.join:hover{
+  opacity: 0.8;
+}
+.join-text{
+  font-family: SoDo Sans, sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: -0.14px;
+  line-height: 14px;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+}
